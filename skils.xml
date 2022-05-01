@@ -1,0 +1,2 @@
+<xml>
+<информация о скилах>"An array of skills. Each skill has an odata.type, name, context, and input and output parameters. The array can include built-in skills and custom skills. At least one skill is required. If you are using a knowledge store, include a Shaper skill unless you are defining the data shape within the projection."</информация о скилах>
